@@ -54,7 +54,7 @@ pages:
    backgroundblur: true 
  - layout: thirds
    top: <h1>#10 Zink Farms</h1>
-   bottom: "<p>\7260 2nd St NE #8714, Carrington, ND 58421, United States|4.8(4).</p>"
+   bottom: "<p>7260 2nd St NE #8714, Carrington, ND 58421, United States|4.8(4).</p>"
    background: ../assets/images/farms/J.jpg
    backgroundblur: true   
  - layout: thirds
