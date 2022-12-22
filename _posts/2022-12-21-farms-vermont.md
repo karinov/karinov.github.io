@@ -14,7 +14,7 @@ pages:
    backgroundblur: true   
  - layout: thirds
    top: <h1>#2 Shelburne Farms</h1>
-   middle: "<p>\A destination by itself, worth any detour if travelling thourgh Vermont.</p>"
+   middle: "<p>destination by itself, worth any detour if travelling thourgh Vermont.</p>"
    background: ../assets/images/farms/B.jpg
    backgroundblur: true  
  - layout: thirds
