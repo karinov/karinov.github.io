@@ -4,7 +4,7 @@ title: 10 Incredible farmss in Woyming
 cover: 
    title: 10 Incredible farmss in Woyming
    subtitle: Open Directory Project
-   background: ../assets/images/farmss/cover.jpg
+   background: ../assets/images/farms/cover.jpg
 pages: 
  - layout: thirds
    top: <h1>#1 Cody Wyoming Trout Ranch, LLC (NOT CAMP)</h1>
